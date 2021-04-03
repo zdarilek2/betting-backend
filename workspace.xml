@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="919d30cc-58e4-45eb-88c2-6b18af207f0f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZDgr7Q0ugqIzV8UyHhi3csX2BY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="projekt_stavkova" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="create_script.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/create_script.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="0c8fca4d-4e92-4e9b-9b81-f9efd90d20cb" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gen_script.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/gen_script.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_script.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/generate_script.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="0c8fca4d-4e92-4e9b-9b81-f9efd90d20cb" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Database Script.generate_script.sql" />
+        <item itemvalue="Database Script.create_script.sql" />
+        <item itemvalue="Database Script.gen_script.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="919d30cc-58e4-45eb-88c2-6b18af207f0f" name="Default Changelist" comment="" />
+      <created>1584379275045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584379275045</updated>
+      <workItem from="1588702351278" duration="260000" />
+      <workItem from="1588752895330" duration="29617000" />
+      <workItem from="1588837585827" duration="19292000" />
+      <workItem from="1588868890935" duration="10992000" />
+      <workItem from="1588927098495" duration="7757000" />
+      <workItem from="1588936648836" duration="21326000" />
+      <workItem from="1588962962530" duration="9000" />
+      <workItem from="1588968638853" duration="6171000" />
+      <workItem from="1589099053156" duration="9793000" />
+      <workItem from="1589113567936" duration="36000" />
+      <workItem from="1589356428242" duration="4255000" />
+      <workItem from="1589708465274" duration="622000" />
+      <workItem from="1591707321924" duration="611000" />
+      <workItem from="1603120957926" duration="42000" />
+      <workItem from="1603121245835" duration="8000" />
+      <workItem from="1603186704548" duration="71000" />
+      <workItem from="1614244656239" duration="8000" />
+      <workItem from="1614244754586" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="129" key="GridCell.Tab.0.bottom" timestamp="1603120999378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="129" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1603120999378" />
+    <state width="1493" height="129" key="GridCell.Tab.0.center" timestamp="1603120999378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="129" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1603120999378" />
+    <state width="1493" height="129" key="GridCell.Tab.0.left" timestamp="1603120999378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="129" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1603120999378" />
+    <state width="1493" height="129" key="GridCell.Tab.0.right" timestamp="1603120999378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="129" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.984@0.0.1536.824" timestamp="1603120999378" />
+  </component>
+</project>
